@@ -1,0 +1,10 @@
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\bin\Debug\TaskManager.exe
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\bin\Debug\TaskManager.pdb
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.Form1.resources
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.exe
+D:\Dai Hoc Thuy Loi\He dieu hanh\TaskManager\obj\Debug\TaskManager.pdb
